@@ -1,35 +1,29 @@
-# GitHub 30 Days Challenge 🚀
+# GitHub 30 Days Challenge
 
 Welcome to my 30-day GitHub learning journey.
 
-## 🎯 Goal
+## Day 1
 
-Learn Git and GitHub step by step through daily practice.
+Today I started my GitHub contribution challenge.
 
-## 📚 Progress
+### Goals
 
-- ✅ Day 1 - GitHub Basics
-- ⏳ Day 2 - Branch & Pull Request
-- ⏳ Day 3 - GitHub Issues
-- ⏳ Day 4 - GitHub Actions
-- ⏳ Day 5 - Git Command Line
+- Practice GitHub every day
+- Improve Git and Markdown skills
+- Learn version control
+- Build useful projects
+- Maintain consistent activity
 
-## 🛠️ What I'm Learning
+### Day 1 Progress
 
-- Git
-- GitHub
-- Markdown
-- Branches
-- Pull Requests
-- Issues
-- GitHub Actions
+- Created my repository
+- Created my first README
+- Made my first commit
+- Started my 30-day challenge
 
-## 📈 Progress
+## Learning Notes
 
-**Day 1 / 30**
+GitHub helps developers collaborate, manage code, track changes,
+and build projects using Git and version control.
 
-> Learning consistently, one day at a time.
-
----
-
-Made with ❤️ while learning GitHub.
+More progress will be documented throughout this challenge.
